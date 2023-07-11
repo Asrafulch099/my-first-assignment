@@ -25,9 +25,7 @@ body {
     border: 0px;
     color: #FFF;
     font-size: 20px;
-    font-weight: 700;
-    padding: 20px 43px;
-    margin-top: 32px;
+    padding: 10px 10px;
 }
 
 .header {
@@ -96,9 +94,11 @@ body {
 #flower-2 {
     background: rgba(5, 151, 160, 0.15);
 }
+
 #flower-3 {
     background: rgba(71, 125, 17, 0.15);
 }
+
 .headline {
     color: #272727;
     font-size: 40px;
@@ -160,10 +160,12 @@ body {
 #pad {
     padding-left: 240px;
 }
+
 .design-img {
     padding: 10px;
     border-radius: 10px;
 }
+
 .last-image {
     background-image: url('../Flower\ Asset/Rectangle 9.png');
     background-repeat: no-repeat;
@@ -190,36 +192,20 @@ body {
     margin-left: 500px;
     margin-bottom: 120px;
     margin-top: 48px;
+    margin-right: 10px;
 }
 
 .headline-third {
     font-size: 48px;
     font-weight: 800;
-    padding: 128px 832px 0px 700px;
+    padding: 128px 832px 0px 825px;
     color: #FFFFFF;
 }
 
-.footer-background {
-    background: #111010;
-}
-
-.paragraph {
-    color: rgba(255, 255, 255, 0.90);
+.footer {
+    justify-content: center;
     text-align: center;
-    font-size: 18px;
-    font-weight: 400;
-    display: flex;
-    width: 625px;
-    flex-direction: column;
-    flex-shrink: 0;
-    margin-left: 550px;
-    margin-top: 24px;
-}
-
-.footer-end {
-    color: rgba(255, 255, 255, 0.40);
-    text-align: center;
-    font-size: 16px;
-    font-weight: 400;
-    padding-bottom: 130px;
+    background-color: #1b1919;
+    color: #e2dddd;
+    padding-bottom: 100px;
 }
