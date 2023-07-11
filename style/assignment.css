@@ -49,11 +49,62 @@ body {
     color: #E55473;
 }
 
+.headline-1 {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.section-description2 {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    display: flex;
+    width: 594px;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding-left: 675px;
+}
+
+.skill {
+    padding: 60px;
+}
+
+.skill-container {
+    display: flex;
+}
+
+.skill-title {
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+.skill-description {
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+}
+
+#flower-1 {
+    background: rgba(167, 33, 98, 0.15);
+}
+
+#flower-2 {
+    background: rgba(5, 151, 160, 0.15);
+}
+#flower-3 {
+    background: rgba(71, 125, 17, 0.15);
+}
 .headline {
     color: #272727;
     font-size: 40px;
     font-weight: 800;
 }
+
 
 .section-description {
     display: flex;
@@ -109,12 +160,10 @@ body {
 #pad {
     padding-left: 240px;
 }
-
 .design-img {
     padding: 10px;
     border-radius: 10px;
 }
-
 .last-image {
     background-image: url('../Flower\ Asset/Rectangle 9.png');
     background-repeat: no-repeat;
@@ -143,16 +192,34 @@ body {
     margin-top: 48px;
 }
 
-.footer-background {
-    width: 1922px;
-    height: 449px;
-    flex-shrink: 0;
-    background: #111010;
-}
-
 .headline-third {
     font-size: 48px;
     font-weight: 800;
-    padding: 128px 832px 263px 832px;
+    padding: 128px 832px 0px 700px;
     color: #FFFFFF;
+}
+
+.footer-background {
+    background: #111010;
+}
+
+.paragraph {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    display: flex;
+    width: 625px;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin-left: 550px;
+    margin-top: 24px;
+}
+
+.footer-end {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 130px;
 }
