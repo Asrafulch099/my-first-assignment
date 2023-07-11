@@ -1,0 +1,158 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.div-title {
+    width: 708px;
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: 0px;
+}
+
+.paragraph-line {
+    margin-top: 32px;
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+    margin-top: 32px;
+}
+
+.header {
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.banner {
+    padding: 50px 300px 0px 240px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner .profile-picture {
+    width: 600px;
+}
+
+.font-color {
+    color: #E55473;
+}
+
+.headline {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.section-description {
+    display: flex;
+    width: 594px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.bg-color {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.padding {
+    padding: 100px 429px 100px 395px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.next-picture .padding {
+    width: 400px;
+}
+
+.headline-second {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.section-description1 {
+    display: flex;
+    width: 594px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+}
+
+#what-i-do {
+    padding: 10px 650px;
+}
+
+#pad {
+    padding-left: 240px;
+}
+
+.design-img {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.last-image {
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.headline-second {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 120px;
+}
+
+.contact {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 8px;
+    background: #FFF;
+    border: 0px;
+    width: 700px;
+    height: 64px;
+    margin-left: 500px;
+    margin-bottom: 120px;
+    margin-top: 48px;
+}
+
+.footer-background {
+    width: 1922px;
+    height: 449px;
+    flex-shrink: 0;
+    background: #111010;
+}
+
+.headline-third {
+    font-size: 48px;
+    font-weight: 800;
+    padding: 128px 832px 263px 832px;
+    color: #FFFFFF;
+}
